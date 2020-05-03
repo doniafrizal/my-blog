@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Doni Afrizal
-description: Tutorial and Blog Post by Doni Afrizal: Python, R, Data Science, Machine Learning, QA/QC, HSE, Oil and Gas .
+description: "Tutorial and Blog Post by Doni Afrizal: Python, R, Data Science, Machine Learning, QA/QC, HSE, Oil and Gas ."
 github_username: doniafrizal
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "doni-blog"
