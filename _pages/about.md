@@ -4,7 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+I am Doni Afrizal, currently working as QHSE Manager at one of oil and gas company located in Batam. QA/QC and HSE is my current domain. Programming is my hobby since college back in year 2000. Now, learning Python, R, Tableu, Probability and Statistic, and all related skill in Big Data, Data Science, and Data Engineering.
+
+Most of content in this blog was learned in online course at Data Camp, Udemy, Udacity, and Edx.
 
 This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
