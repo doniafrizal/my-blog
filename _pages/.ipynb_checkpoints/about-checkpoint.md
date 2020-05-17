@@ -4,9 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-- toc: true
-
-
 ## Brief About Me
 
 
@@ -29,6 +26,9 @@ List of My Certificates from Data Science related
 
 
 
+
+
+![](images/python_programming.svg)
 
 
 [^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
